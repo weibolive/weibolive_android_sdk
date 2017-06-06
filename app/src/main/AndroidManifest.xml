@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sina.weibo.sdk.demo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 用于调用 JNI -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!-- 主 Activity -->
+        <activity
+            android:name=".WBDemoMainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 授权认证 -->
+        <activity android:name=".WBAuthActivity" />
+        <activity android:name=".WBShareMainActivity" />
+        <activity android:name=".WeiboPageActivity" />
+
+        <!-- 分享 -->
+        <activity
+            android:name=".WBShareActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <!-- 统计 -->
+        <activity android:name=".WBStatisticActivity" />
+        <!-- live -->
+        <activity android:name=".WBLiveApiActivity" />
+
+        <meta-data
+            android:name="WEIBO_APPKEY"
+            android:value="1690816675" />
+        <meta-data
+            android:name="WEIBO_CHANNEL"
+            android:value="weibo" />
+
+        <activity
+            android:name=".WBLiveCreateActivity"
+            android:label="@string/title_activity_wblive_create" />
+        <activity
+            android:name=".WBLiveUpdateActivity"
+            android:label="@string/title_activity_wblive_update"></activity>
+    </application>
+
+</manifest>
