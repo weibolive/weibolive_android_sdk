@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WeiboLiveOpenapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/WeiboLiveOpenapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -48,4 +48,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:24.2.0'
     compile files('libs/WeiboLiveOpenapi.jar')
     compile files('libs/flexjson-2.1.jar')
+    compile 'com.google.code.gson:gson:2.3'
+    compile files('libs/sinalive_sdk_release.jar')
 }

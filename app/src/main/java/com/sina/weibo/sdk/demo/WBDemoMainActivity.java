@@ -26,6 +26,7 @@ import com.sina.weibo.sdk.WbSdk;
 import com.sina.weibo.sdk.auth.AccessTokenKeeper;
 import com.sina.weibo.sdk.auth.AuthInfo;
 import com.sina.weibo.sdk.auth.Oauth2AccessToken;
+import com.sina.weibo.sdk.demo.videolive.PlayActivity;
 import com.sina.weibo.sdk.statistic.WBAgent;
 
 import java.util.HashMap;
@@ -94,6 +95,12 @@ public class WBDemoMainActivity extends Activity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(WBDemoMainActivity.this,WBLiveApiActivity.class));
+            }
+        });
+        findViewById(R.id.btn_forward).setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(WBDemoMainActivity.this, PlayActivity.class));
             }
         });
     }
