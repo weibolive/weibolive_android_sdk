@@ -151,7 +151,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="dfe7bbfe0b4eecb7ff2eb54b40caf789e69c1d74">
+        sha1="7917433c85849a7da6225422ceaebac52a790a8f">
         <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d1dc308b87014898c324791f9795148b00119393/classes.dex" />
     </item>
     <item
@@ -178,7 +178,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="c723947b597994fc0a9a17baf84ccacaf1f65466">
+        sha1="600a27378834de5fac3108b4235fb302a2307b55">
         <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_98be997bad92aa722d34ef41ef857c0cfd2ebb61/classes.dex" />
     </item>
     <item

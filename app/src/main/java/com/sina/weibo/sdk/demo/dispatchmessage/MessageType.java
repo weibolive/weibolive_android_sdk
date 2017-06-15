@@ -29,6 +29,7 @@ public class MessageType {
     public static final int SYSTEM = 15;//系统消息（该消息"sender_info"字段为空,"send_info":{}）【开发中】
     public static final int STICK = 16;//置顶/取消置顶评论消息 【开发中】
     public static final int CUSTOM = 100;//自定义消息类型
+    public static final int CUSTOM_EXIT_ROOM= 101;//自定义退出消息类型
 
     /**
      * 系统消息子类型说明（sys_msg_type）
@@ -101,6 +102,7 @@ public class MessageType {
         messageTypeMap.put(PLAYBACK_GIFTS, PLAYBACK_GIFTS);
         messageTypeMap.put(PLAY_CONTROLLER,PLAY_CONTROLLER);
         messageTypeMap.put(START_SHARE,START_SHARE);
+        messageTypeMap.put(CUSTOM_EXIT_ROOM,CUSTOM_EXIT_ROOM);
     }
 
     public HashMap<Integer, Integer> getMessageTypeMap() {

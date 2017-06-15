@@ -4,6 +4,8 @@
       <root url="jar://$PROJECT_DIR$/app/libs/sinalive_sdk_release.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/app/libs/sinalive_sdk_release.jar!/" />
+    </SOURCES>
   </library>
 </component>

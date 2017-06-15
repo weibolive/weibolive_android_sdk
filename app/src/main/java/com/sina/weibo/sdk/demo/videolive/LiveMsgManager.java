@@ -34,6 +34,7 @@ import com.sina.weibo.sdk.auth.Oauth2AccessToken;
 import com.sina.weibo.sdk.demo.AppContext;
 import com.sina.weibo.sdk.demo.dispatchmessage.DispatchMessageEventBus;
 import com.sina.weibo.sdk.demo.dispatchmessage.IMsgTypeConvert;
+import com.sina.weibo.sdk.demo.dispatchmessage.MessageType;
 import com.sina.weibo.sdk.demo.impl.LiveMsgTypeConvert;
 
 /**
@@ -91,6 +92,7 @@ public class LiveMsgManager {
         Oauth2AccessToken accessToken = AccessTokenKeeper.readAccessToken(AppContext.getAppContext());
         user.setAccess_token(accessToken.getToken());
         user.setUid(Long.valueOf(accessToken.getUid()));
+        Log.e("tag", "token= " + accessToken.getToken() + ",uid=" + accessToken.getUid());
         return user;
     }
 
@@ -138,6 +140,7 @@ public class LiveMsgManager {
      * @param roomId
      */
     public void joinRoom(String roomId) {
+        Log.e("tag", "roomId= " + roomId);
         registMsgCallBack();
         JoinRoomRequest request = new JoinRoomRequest();
         request.setRoom_id(roomId);
@@ -198,6 +201,7 @@ public class LiveMsgManager {
                     @Override
                     public void run() {
                         Toast.makeText(AppContext.getAppContext(), "退出房间成功了", Toast.LENGTH_LONG).show();
+                        DispatchMessageEventBus.getDefault().post(MessageType.CUSTOM_EXIT_ROOM, "");
                     }
                 });
 
