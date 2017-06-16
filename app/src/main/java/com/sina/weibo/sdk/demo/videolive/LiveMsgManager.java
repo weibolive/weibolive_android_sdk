@@ -35,7 +35,7 @@ import com.sina.weibo.sdk.demo.AppContext;
 import com.sina.weibo.sdk.demo.dispatchmessage.DispatchMessageEventBus;
 import com.sina.weibo.sdk.demo.dispatchmessage.IMsgTypeConvert;
 import com.sina.weibo.sdk.demo.dispatchmessage.MessageType;
-import com.sina.weibo.sdk.demo.impl.LiveMsgTypeConvert;
+import com.sina.weibo.sdk.demo.videolive.impl.LiveMsgTypeConvert;
 
 /**
  * Created by WangJie on 2017/6/12.
