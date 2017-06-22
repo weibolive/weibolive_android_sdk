@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsr-223-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/jsr-223-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

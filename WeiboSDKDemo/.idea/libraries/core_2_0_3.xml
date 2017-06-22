@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="core-2.0.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.sina.weibo.sdk/core/2.0.3/openDefaultRelease/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.sina.weibo.sdk/core/2.0.3/openDefaultRelease/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

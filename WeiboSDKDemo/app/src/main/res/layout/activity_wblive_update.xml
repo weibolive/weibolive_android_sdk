@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_wblive_update"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.sina.weibo.sdk.demo.WBLiveUpdateActivity">
+
+
+    <TextView
+        android:text="标题"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/updateTitle" />
+
+    <EditText
+        android:layout_width="500px"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/titleUpdate"
+        android:textSize="8sp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/updateTitle"
+        android:layout_marginStart="62dp" />
+
+    <TextView
+        android:text="内容"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titleUpdate"
+        android:layout_alignStart="@+id/updateTitle"
+        android:layout_marginTop="10dp"
+        android:id="@+id/updateSummary" />
+
+    <EditText
+        android:layout_width="500px"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/summaryUpdate"
+        android:textSize="8sp"
+        android:layout_below="@+id/titleUpdate"
+        android:layout_alignStart="@+id/titleUpdate" />
+
+    <TextView
+        android:text="发布状态"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/summaryUpdate"
+        android:layout_alignStart="@+id/updateSummary"
+        android:layout_marginTop="12dp"
+        android:id="@+id/updatePublish" />
+
+    <EditText
+        android:layout_width="500px"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:layout_alignTop="@+id/updatePublish"
+        android:layout_alignStart="@+id/summaryUpdate"
+        android:id="@+id/publishUpdate"
+        android:textSize="8sp" />
+
+    <TextView
+        android:text="封面图"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/publishUpdate"
+        android:layout_alignStart="@+id/updatePublish"
+        android:layout_marginTop="15dp"
+        android:id="@+id/updateImage" />
+
+    <EditText
+        android:layout_width="500px"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_below="@+id/publishUpdate"
+        android:layout_alignStart="@+id/publishUpdate"
+        android:id="@+id/imageUpdate"
+        android:textSize="8sp" />
+
+    <TextView
+        android:text="停止直播"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageUpdate"
+        android:layout_alignStart="@+id/updateImage"
+        android:layout_marginTop="14dp"
+        android:id="@+id/updateStop" />
+
+    <EditText
+        android:layout_width="500px"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:layout_below="@+id/imageUpdate"
+        android:layout_alignStart="@+id/imageUpdate"
+        android:id="@+id/stopUpdate"
+        android:textSize="8sp" />
+
+    <TextView
+        android:text="回放地址"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/stopUpdate"
+        android:layout_alignStart="@+id/updateStop"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:id="@+id/updateReplayUrl" />
+
+    <Button
+        android:text="更新直播"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/replayUrlUpdate"
+        android:layout_alignStart="@+id/replayUrlUpdate"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="62dp"
+        android:id="@+id/updateButton" />
+
+    <EditText
+        android:layout_width="500px"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/replayUrlUpdate"
+        android:textSize="8sp"
+        android:layout_alignBaseline="@+id/updateReplayUrl"
+        android:layout_alignBottom="@+id/updateReplayUrl"
+        android:layout_alignStart="@+id/stopUpdate" />
+</RelativeLayout>
