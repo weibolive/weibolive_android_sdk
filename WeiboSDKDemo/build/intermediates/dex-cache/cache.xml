@@ -2,211 +2,193 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_6e20523df27c59dae60eab6c0d067689150e872f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_78a0493edddf9cceb4ef102e1931beeb7478229a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_a58aa4bafbf69e88f2eedd989df7607ed23c7306/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_2e9cdce9a8c194cfd328fe1acaee4d3be86a6d58/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4ccd50766fd8342c147dad1f894bcbc9b6ab9b06/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_19a5d10ceeab243245fce7942a45e8818683e03d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_819afe92fd8721352b28633d9c58a0e135c433c6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_e58058985f6aa929a812d533f80b3575b72815a9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e6aa3a71db0f4a8f3c30bd88abfb1b63165dff2e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_ec598548abd62324e460a73a12daba75e5cb69ae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/libs/WeiboLiveOpenapi.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2a6c93e836233ed922a8d8e7e8daf5c038f07c15">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/WeiboLiveOpenapi_5e533b22aa078f49fa643a67e85365db14042494/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="14db69d664bb3af11d2b83c5e7d970bc751ba829">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e13c943d3d0534099bca0ff00e940329ed4097e9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.sina.weibo.sdk/core/2.0.3/openDefaultRelease/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="390edde49f1ca0539adc65501a2f5d53ebd0fec8">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-2.0.3-openDefaultRelease_d417c217a355e21eb3f6d9769ced27644e5ec597/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8d54fd8906978eb451467ad1dbc4698abb0c86f5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_94dad2dbe113ba9623a5dd84e412c75de4ca1b26/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_f869c12450cc94b7527c7902c2846a5f2b8e240e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/libs/flexjson-2.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/libs/flexjson-2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="37b5edffcb52e273c3e642d71b468e851f4960f7">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/flexjson-2.1_72bb60c2d60eef772671608591b81e600700f564/classes.dex" />
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/flexjson-2.1_aec4b004dfc1a09d5b52cb30dee2e4d32b312b8b.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_366a674e62790fe88382f6178141384712b12ad7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_786b2e29c46837bd901f11f813a0c9c3b086b76e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/libs/jsr-223-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="50cc5fdf691c948f9fb952392c19d10920389f50">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsr-223-1.0_47e9d5cf951c28e2e66427477537612dacc6d8bf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b35055ee9802a99f5b52a56c3c69727dd8ed8e71">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5a44315103fba8a2130d1be10c79050c240e2bcc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f22f3d7ee9fe39cf379c74138a99a4df9a25a04b/classes.dex" />
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_cf4bb9aa5ff4fd8d2e69391cc1f12167cbbc030b.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/libs/sinalive_sdk_release.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_cdf4cb014163b57d460b99646bd0ff50fe63f3c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_a4877e697a457343693db75cd998592c28f53f7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/libs/jsr-223-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50cc5fdf691c948f9fb952392c19d10920389f50">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/jsr-223-1.0_dca93e34acdd48b6ca62ff665939c86030978694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.sina.weibo.sdk/core/2.0.3/openDefaultRelease/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="390edde49f1ca0539adc65501a2f5d53ebd0fec8">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/core-2.0.3-openDefaultRelease_c01e198969e3a60e352b0a3373372bd94db7f051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_445526baf3bcdb99dd00b35cd0efb48e06445d5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_519dc98c51466e5fbdcd57d871ceed7bf06cdb16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_24dbdbfb6863a4731d560dd13ed033532fc0d939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_266d9f5cab29407b1f6f3be15e627612abe048d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_302506993ffafe52fcd73e0ff3843012507ca131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/gson-2.3_719a91fce206b9d188614c052aa3adda34b990b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_6738e5fe8203a03dfaabc4da46819c64c6343c56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/libs/weiboliveopenapi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="039cd277e8a6da5d48a464ac29c77224f520e129">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/weiboliveopenapi_09406413357a1ba3760b7eeeed5855e3fdbfcd5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_4f4dc0892e41618a898570306b466d0fee97c381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_a0073ac1611c36ed84f58a1f0f5fb504cde38fbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_5ea609e983976d984753584206d0853536237504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4561910ea1fdc5571ff393d36026fdced325559d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0ffcc6088aca84e3d25ed1052f0b2241047254c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/libs/sinalive_sdk_release.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="58364b0cfe3385224ae0948fa1f5cc94f61d36cd">
-        <dex dex="/Users/bj-m-206333a/Desktop/androidsdkdemo/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/sinalive_sdk_release_b0b95274d9dbc940d0992b0964fb69902b3c7ed1/classes.dex" />
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/sinalive_sdk_release_31244a8be84ac1b5a3c42bbc3acf6664aa913132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/jinya3/Workspace/Android/weibolive_android_sdk/WeiboSDKDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_92fb89534ded10471ceb0e228845f71f9a1b2afc.jar" />
     </item>
 
 </items>

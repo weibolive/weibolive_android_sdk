@@ -20,11 +20,11 @@ public class WBLiveUpdateActivity extends Activity {
     private Oauth2AccessToken mAccessToken;
     private WeiboLiveUpdate mUpdateApi;
     private String title;
-    private String summary;
-    private String isPublished;
-    private String imageUrl;
-    private String isStop;
-    private String replayUrl;
+    private String summary = null;
+    private String isPublished = null;
+    private String imageUrl = null;
+    private String isStop = null;
+    private String replayUrl = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -68,7 +68,7 @@ public class WBLiveUpdateActivity extends Activity {
                     mUpdateApi.setImage(imageUrl);
                     mUpdateApi.setStop(isStop);
                     mUpdateApi.setReplayUrl(replayUrl);
-                    mUpdateApi.UpdateLive(new RequestListener() {
+                    mUpdateApi.updateLive(new RequestListener() {
                         @Override
                         public void onComplete(String s) {
                             new AlertDialog.Builder(WBLiveUpdateActivity.this).setMessage(s)

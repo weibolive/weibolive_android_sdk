@@ -31,11 +31,11 @@ public class WBLiveCreateActivity extends Activity {
     private String title;
     private String width;
     private String height;
-    private String summary;
-    private String isPublished;
-    private String imageUrl;
-    private String isReplay;
-    private String isPanoLive;
+    private String summary = null;
+    private String isPublished = null;
+    private String imageUrl = null;
+    private String isReplay = null;
+    private String isPanoLive = null;
 
 
     @Override
